@@ -55,13 +55,6 @@ https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(C
 https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
 
 💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
-
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
 
 ⏰ Deadline:
 
