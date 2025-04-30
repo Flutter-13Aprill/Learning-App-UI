@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Learning App UI 🎓 📱
 
 <img src="./vkf3sehb.png"
@@ -48,3 +49,21 @@ Your project must be submitted by 1/5/2025 , before 10:00 AM.
 
 "Learning never stops! Build
 great UI, and let your app inspire others." 🚀
+=======
+# apr30
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 3124ce2 (First commit)
