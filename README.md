@@ -69,7 +69,7 @@ flutter run
    - Fill in the required fields: Name, Email, and Password.
    - Tap the "Sing up" button to create your account.
 
-   ![Sign Up Screen](./sign_up_screen.png)  <!-- Replace with actual image path -->
+   ![Sign Up Screen]  
 
 3. **Login**:
    - If you already have an account, tap on the "Log in" button.
@@ -77,18 +77,18 @@ flutter run
    - You can also log in using social networks like Facebook and Instagram.
    - Tap the "Log in" button to access your account.
 
-   ![Login Screen](./login_screen.png)  <!-- Replace with actual image path -->
+   ![Login Screen] 
 
 4. **Browse Courses**:
    - Once logged in, you can browse through available courses.
    - Use the search bar to find specific courses or explore categories such as #CSS, #UX, #Swift, and #UI.
 
-   ![Course List Screen](./course_list_screen.png)  <!-- Replace with actual image path -->
+   ![Course List Screen] 
 
 5. **Select a Course**:
    - Tap on a course to view its details, including duration and price.
 
-   ![Course Details Screen](./course_details_screen.png)  <!-- Replace with actual image path -->
+   ![Course Details Screen] 
 
 6. **Add to Cart**:
    - Add your favorite courses to the cart for later checkout.
