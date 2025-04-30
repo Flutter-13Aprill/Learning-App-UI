@@ -71,5 +71,5 @@ plaese if you have any suggestions contact me <a href="mailto:aymangormallah@gma
 
 Before I get grilled in this weather condition
 
-<img src = "assets/github_images/superhot.gif" alt = "superhot - gif"> <img src = "assets/github_images/fan.png" alt = "fan - Output">
+<img src = "assets/github_images/fan.gif" alt = "fan - Output"> <img src = "assets/github_images/superhot.gif" alt = "superhot - gif"> 
 
