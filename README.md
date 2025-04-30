@@ -96,6 +96,6 @@ flutter run
 7. **Proceed to Checkout**:
    - If available, proceed to checkout to complete your purchase.
 
- هى 
+ 
  **Author**
 ### Busra Aljuwair
