@@ -3,27 +3,50 @@ Learning App UI 🎓 📱
 <img src="./vkf3sehb.png"
 style="width:6.69297in;height:6.67888in" />
 
-Introduction
+📘 Introduction
+This project showcases the design and development of a Learning App UI using Flutter. The app lets users browse online courses, sign up, and view course details. The primary focus is on building a clean, user-friendly, and engaging multi-screen interface.
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
+🚀 Features
+🖥️ Core Screens
+🎬 Splash Screen
 
-📱 Core Screens to Implement:
+Displays the app logo on launch.
 
-✅ Splash Screen – Displays
-the app logo.
+📖 Onboarding Screens
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
+Three introduction screens that explain the app’s purpose.
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
+Motivational messages to encourage learning anytime, anywhere.
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
+🔐 Login Screen
+
+Login with email and password.
+
+Option to log in via social platforms (e.g., Facebook, Instagram).
+
+📝 Sign-Up Screen
+
+Register with name, email, and password.
+
+🏠 Home Screen
+
+Shows user profile information.
+
+Displays course categories (e.g., #CSS, #UX, #Swift, #UI).
+
+Lists available courses with details like duration and price.
+
+📚 Course Details Screen
+
+Displays detailed course info, including description and price.
+
+"Add to Cart" functionality.
+
+✨ Smooth UI
+
+Clean and attractive user interface for an enjoyable experience.
+
+
 
 🎨 Figma UI:
 
