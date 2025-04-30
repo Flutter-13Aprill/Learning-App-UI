@@ -40,7 +40,6 @@ Lists available courses with details like duration and price.
 
 Displays detailed course info, including description and price.
 
-"Add to Cart" functionality.
 
 ✨ Smooth UI
 
