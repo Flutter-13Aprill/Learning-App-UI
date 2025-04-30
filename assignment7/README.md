@@ -40,22 +40,23 @@ or maybe signup? 👉👈
 
 2- download [Android Studio](https://developer.android.com/studio?hl=ar) to play the emulator or you can use any emulator you like.
 
-3- 
+3- clone the repo from me 👉👈
+
 ```
 git clone https://github.com/AymanAlzahrani/Learning-App-UI.git
  ```
 
 
-4- 
+4- now navigate the repo on your desktop or the place that you cloned it in (from me👉👈)
 ```
- cd desktop/Food-Ordering-App-UI/assignment6
+ cd desktop/Learning-App-UI/assignment7
 ```
-5-
+5- now this will open VScode for you like magic ! 🪄🪄
 ```
 code .
 ```
 
-6-
+6- after that open the terminal in VSCode and play this line of code to run the app and you must have an emulator on
 
 ```
 flutter run
