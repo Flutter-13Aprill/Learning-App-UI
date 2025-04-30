@@ -1,6 +1,6 @@
 Learning App UI 🎓 📱
 
-<img src="./vkf3sehb.png"
+<img src="./screen.gif"
 style="width:6.69297in;height:6.67888in" />
 
 📘 Introduction
