@@ -15,7 +15,6 @@ class SignupPage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              
               Column(
                 children: const [
                   Image(
@@ -62,21 +61,31 @@ class SignupPage extends StatelessWidget {
                   suffixIcon: Icon(Icons.remove_red_eye_outlined),
                 ),
               ),
-              MainButton(nextPage: HomePage(), text: "Sign up"),
+              MainButton(
+                yourLogic: () {
+                  Navigator.pushReplacement(
+                    context,
+                    MaterialPageRoute(builder: (context) => HomePage()),
+                  );
+                },
+                text: "Sign up",
+              ),
               TextButton(
-                  onPressed: () {
-                    Navigator.pushReplacement(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => LoginPage(),
-                      ),
-                    );
-                  },
-                  child: const Text(
-                    "Log in",
-                    style: TextStyle(color: Colors.black38,fontWeight: FontWeight.bold,fontSize: 16),
+                onPressed: () {
+                  Navigator.pushReplacement(
+                    context,
+                    MaterialPageRoute(builder: (context) => LoginPage()),
+                  );
+                },
+                child: const Text(
+                  "Log in",
+                  style: TextStyle(
+                    color: Colors.black38,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 16,
                   ),
                 ),
+              ),
             ],
           ),
         ),

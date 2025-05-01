@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 class MainButton extends StatelessWidget {
-  const MainButton({super.key, required this.nextPage, required this.text});
-  final Widget nextPage;
+  const MainButton({super.key, required this.yourLogic, required this.text});
+  final Function yourLogic;
   final String text;
 
   @override
@@ -12,10 +12,7 @@ class MainButton extends StatelessWidget {
       height: 56,
       child: ElevatedButton(
         onPressed: () {
-          Navigator.pushReplacement(
-            context,
-            MaterialPageRoute(builder: (context) => nextPage),
-          );
+          yourLogic();
         },
         style: ElevatedButton.styleFrom(
           backgroundColor: Color.fromRGBO(227, 86, 42, 1),

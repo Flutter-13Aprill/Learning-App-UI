@@ -1,4 +1,5 @@
 import 'package:app_ui/pages/widgets/ContainerWithText_widget.dart';
+import 'package:app_ui/pages/widgets/mainButton.dart';
 import 'package:app_ui/pages/widgets/squarIconCountainer_widget.dart';
 import 'package:flutter/material.dart';
 
@@ -92,30 +93,9 @@ class CourseDetailsPage extends StatelessWidget {
                   ),
                 ],
               ),
-
-              SizedBox(
-                width: 311,
-                height: 56,
-                child: ElevatedButton(
-                  onPressed: () {
-                    Navigator.pop(context);
-                  },
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.deepOrange,
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(16),
-                    ),
-                  ),
-                  child: const Text(
-                    "Add to cart",
-                    style: TextStyle(
-                      fontSize: 16,
-                      color: Colors.white,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-                ),
-              ),
+              MainButton(yourLogic: () {
+                Navigator.pop(context);
+              }, text: "Add to cart"),
             ],
           ),
         ),
