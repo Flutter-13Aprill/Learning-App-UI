@@ -5,15 +5,30 @@ A beautiful Flutter app for browsing and selecting educational courses with a sm
 ---
 ##  Screenshots
 
-| Splash | Intro 1 | Intro 2 | Intro 3 |
-|--------|---------|---------|---------|
-| ![](assets/screenshots/Screenshot_1.png) | ![](assets/screenshots/Screenshot_2.png) | ![](assets/screenshots/Screenshot_3.png) | ![](assets/screenshots/Screenshot_4.png) |
+### Splash Screen  
+![Splash](assets/screenshots/Screenshot_1.png)
 
-| Login | Sign Up | Home | Product Detail |
-|--------|---------|------|----------------|
-| ![](assets/screenshots/Screenshot_5.png) | ![](assets/screenshots/Screenshot_6.png) | ![](assets/screenshots/Screenshot_7.png) | ![](assets/screenshots/Screenshot_8.png) |
+###  Intro 1  
+![Intro 1](assets/screenshots/Screenshot_2.png)
 
----
+###  Intro 2  
+![Intro 2](assets/screenshots/Screenshot_3.png)
+
+###  Intro 3  
+![Intro 3](assets/screenshots/Screenshot_4.png)
+
+###  Login  
+![Login](assets/screenshots/Screenshot_5.png)
+
+###  Sign Up  
+![Sign Up](assets/screenshots/Screenshot_6.png)
+
+###  Home  
+![Home](assets/screenshots/Screenshot_7.png)
+
+###  Product Detail  
+![Product Detail](assets/screenshots/Screenshot_8.png)
+
 
 ##  Features
 
