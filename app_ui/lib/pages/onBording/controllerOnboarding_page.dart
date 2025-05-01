@@ -74,11 +74,12 @@ class _ControllerOnboardingPageState extends State<ControllerOnboardingPage> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  CircleDot(isActive: true),
+                  
+                  CircleDot(isActive:currentPage == 0),
                   SizedBox(width: 8),
-                  CircleDot(),
+                  CircleDot(isActive: currentPage == 1),
                   SizedBox(width: 8),
-                  CircleDot(),
+                  CircleDot(isActive:currentPage == 2),
                 ],
               ),
               MainButton(
