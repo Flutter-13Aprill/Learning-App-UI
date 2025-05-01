@@ -1,10 +1,8 @@
 Learning App UI 🎓 📱
 
-### Demo Video
-<video width="350" controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Project Overview 
+  <img src="projectOverview.gif" alt="Preview" width="350">
+
 
 
 
