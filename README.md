@@ -9,7 +9,7 @@ Learning App UI 🎓 📱
 ## 📘 Project Description
 This is a simple Flutter UI project for a learning app. The app has basic screens like a splash screen, onboarding, login/sign-up, home, and course details. It's mainly focused on building the user interface — there's no backend or real data, just layout and navigation. The goal was to practice making clean, organized screens and get more comfortable with Flutter UI.
 
-## Tech Stack
+## ⚙️ Tech Stack
 - **Flutter**
 - **Dart**
 
@@ -42,7 +42,3 @@ flutter pub get
  Remas Alnugaithan
 
 
-✨ Reminder:
-
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
