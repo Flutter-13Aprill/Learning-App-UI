@@ -2,6 +2,7 @@ Learning App UI 🎓 📱
 
 ## Project Overview 
   <img src="projectOverview.gif" alt="Preview" width="350">
+<img src="ProjectPages.png" alt="Project Pages" style="width:100%; max-width:600px; display:block; margin:auto;" />
 
 
 
