@@ -52,7 +52,7 @@ class PageIndicator extends StatelessWidget {
                 borderRadius: BorderRadius.circular(20),
               ),
             ),
-            child: Text(buttonText),
+            child: Text(buttonText, style: TextStyle(color: Colors.white)),
           ),
         ],
       ),

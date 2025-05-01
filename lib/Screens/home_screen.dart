@@ -1,7 +1,7 @@
-import 'package:apr30/CustomWidgets/Login/Signup%20Widgets/HomeScreen/category_chips.dart';
-import 'package:apr30/CustomWidgets/Login/Signup%20Widgets/HomeScreen/course_card.dart';
-import 'package:apr30/CustomWidgets/Login/Signup%20Widgets/HomeScreen/custom_search_bar.dart';
-import 'package:apr30/CustomWidgets/Login/Signup%20Widgets/HomeScreen/header.dart';
+import 'package:apr30/CustomWidgets/HomeScreen/category_chips.dart';
+import 'package:apr30/CustomWidgets/HomeScreen/course_card.dart';
+import 'package:apr30/CustomWidgets/HomeScreen/custom_search_bar.dart';
+import 'package:apr30/CustomWidgets/HomeScreen/header.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {

@@ -13,7 +13,6 @@ class _PasswordFieldState extends State<PasswordField> {
     return SizedBox(
       width: 350,
       child: Card(
-        elevation: 5,
         child: TextFormField(
           obscureText: true,
           validator: (value) {
@@ -24,7 +23,7 @@ class _PasswordFieldState extends State<PasswordField> {
           },
           controller: widget.passwordController,
           decoration: InputDecoration(
-            fillColor: const Color.fromARGB(255, 236, 236, 236),
+            fillColor: Colors.white,
             filled: true,
             hintText: "Password",
             border: OutlineInputBorder(

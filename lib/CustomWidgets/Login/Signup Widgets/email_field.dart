@@ -15,7 +15,6 @@ class _EmailFieldState extends State<EmailField> {
     return SizedBox(
       width: 350,
       child: Card(
-        elevation: 5,
         child: TextFormField(
           keyboardType: TextInputType.emailAddress,
           validator: (value) {
@@ -28,9 +27,9 @@ class _EmailFieldState extends State<EmailField> {
           },
           controller: widget.emailController,
           decoration: InputDecoration(
-            fillColor: const Color.fromARGB(255, 236, 236, 236),
+            fillColor: Colors.white,
             filled: true,
-            hintText: "Email Address",
+            hintText: "Email",
             border: OutlineInputBorder(
               borderSide: BorderSide.none,
               borderRadius: BorderRadius.circular(10),

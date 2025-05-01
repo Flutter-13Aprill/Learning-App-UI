@@ -14,11 +14,10 @@ class _NameFieldState extends State<NameField> {
       width: 350,
       height: 60,
       child: Card(
-        elevation: 5,
         child: TextField(
           controller: widget.nameController,
           decoration: InputDecoration(
-            fillColor: const Color.fromARGB(255, 236, 236, 236),
+            fillColor: Colors.white,
             filled: true,
             hintText: "Full Name",
             border: OutlineInputBorder(

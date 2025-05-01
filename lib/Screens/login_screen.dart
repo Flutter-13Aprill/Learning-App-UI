@@ -99,7 +99,10 @@ class _LogInScreenState extends State<LoginScreen> {
                         ),
                       ),
                       onPressed: singIn,
-                      child: Text("Login"),
+                      child: Text(
+                        "Login",
+                        style: TextStyle(color: Colors.white),
+                      ),
                     ),
                   ),
 

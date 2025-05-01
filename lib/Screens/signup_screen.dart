@@ -76,7 +76,10 @@ class _SignupScreenState extends State<SignupScreen> {
                         ),
                       );
                     },
-                    child: const Text("Signup"),
+                    child: const Text(
+                      "Signup",
+                      style: TextStyle(color: Colors.white),
+                    ),
                   ),
                 ),
                 const SizedBox(height: 16),
