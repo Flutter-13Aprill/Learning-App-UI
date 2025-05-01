@@ -1,50 +1,72 @@
-Learning App UI 🎓 📱
+# 📘 Learning App (UI) – Overview
+The Learning App is a modern educational platform built with Flutter, 
+offering a sleek and intuitive user interface for browsing and enrolling in online courses. It is designed to help users learn anytime, anywhere.
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
 
-Introduction
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
+## 📷 Screenshots 
 
-📱 Core Screens to Implement:
+![image alt](https://github.com/azizotbb/Learning-App-UI/blob/3b120117f7fd13a02a9445c70662180b49fb3bce/img.jpeg)
 
-✅ Splash Screen – Displays
-the app logo.
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
+## 🎥 Gif
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
+![image alt](https://github.com/azizotbb/Learning-App-UI/blob/3b120117f7fd13a02a9445c70662180b49fb3bce/gif.gif)
 
-🎨 Figma UI:
 
+
+## 🔍 Features
+- Splash Screen – Displays the app logo.
+- Onboarding Screens – Three intro screens guiding users about the app.
+- Login & Sign-Up Screens – Allow users to register and log in.
+- Home Screen – Displays user info, course categories, and available courses.
+- Course Details Screen – Shows course description, price, and an "Add to Cart" button.
+
+
+
+##  🎨 Figma UI:
 https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
 
-💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
 
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
+## Tech Stack
 
-⏰ Deadline:
+- Flutter (latest version) 
+- Dart
 
-Your project must be submitted by 1/5/2025 , before 10:00 AM.
 
-✨ Reminder:
 
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
+## Installation
+
+1.  Clone the repository:
+
+    `https://github.com/azizotbb/Learning-App-UI.git` 
+
+2.  Navigate to the project folder:
+
+    `cd Learning-App-UI.git` 
+
+3.  Install dependencies:
+
+    `flutter pub get` 
+
+4.  Run the app:
+
+    `flutter run`
+
+
+
+
+## Folder Structure
+
+    lib/
+    ├── screens/
+    ├── widgets/
+    └── main.dart
+    
+
+    
+## ✨ Author
+
+- AbdulAziz Alotaibi
