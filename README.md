@@ -1,11 +1,8 @@
 Learning App UI 🎓 📱
 
 ### Demo Video
+[![Video Thumbnail](https://raw.githubusercontent.com/username/repository/main/images/video-thumbnail.jpg)](https://github.com/Remasng1/Learning-App-UI/blob/main/video/AppOverview.webm)
 
-<video width="350" controls>
-  <source src="projectOverview.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
 
 
 ## 📘 Project Description
