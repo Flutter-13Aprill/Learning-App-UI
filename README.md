@@ -11,13 +11,13 @@ This project is part of a Flutter bootcamp focused on developing a **Learning Ap
 ### Design Prototype 🎨
 
 Check out the UI design on Figma:
-[🔗 View on Figma]()
+[🔗 View on Figma](https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0)
 
 ---
 
 ### Output 📱
 
-
+https://github.com/user-attachments/assets/09df21c6-93ec-469c-a42c-81d48feaac4c
 
 ---
 
