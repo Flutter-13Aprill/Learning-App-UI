@@ -1,7 +1,7 @@
 Learning App UI 🎓 📱
 
 ### Demo Video
-[![Video Thumbnail](https://raw.githubusercontent.com/username/repository/main/images/video-thumbnail.jpg)](https://github.com/Remasng1/Learning-App-UI/blob/main/video/AppOverview.webm)
+[![Video Thumbnail](https://raw.githubusercontent.com/username/repository/main/images/video-thumbnail.jpg)](https://github.com/Remasng1/Learning-App-UI/blob/main/AppOverview.webm)
 
 
 
