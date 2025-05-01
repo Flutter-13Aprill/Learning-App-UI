@@ -1,6 +1,7 @@
 Learning App UI 🎓 📱
 
-![App Demo](Simulator Screen Recording - iPhone 16 Plus - 2025-05-01 at 04.43.53.gif)
+![App Demo](https://github.com/Lamees56/Learning-App-UI/raw/main/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Plus%20-%202025-05-01%20at%2004.43.53.gif)
+
 
 Introduction
 
