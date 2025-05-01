@@ -1,50 +1,55 @@
-Learning App UI 🎓 📱
+# Learning App UI
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
+A beautiful Flutter app for browsing and selecting educational courses with a smooth user interface and responsive layout.
 
-Introduction
+---
+##  Screenshots
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
+| Splash | Intro 1 | Intro 2 | Intro 3 |
+|--------|---------|---------|---------|
+| ![](assets/screenshots/Screenshot_1.png) | ![](assets/screenshots/Screenshot_2.png) | ![](assets/screenshots/Screenshot_3.png) | ![](assets/screenshots/Screenshot_4.png) |
 
-📱 Core Screens to Implement:
+| Login | Sign Up | Home | Product Detail |
+|--------|---------|------|----------------|
+| ![](assets/screenshots/Screenshot_5.png) | ![](assets/screenshots/Screenshot_6.png) | ![](assets/screenshots/Screenshot_7.png) | ![](assets/screenshots/Screenshot_8.png) |
 
-✅ Splash Screen – Displays
-the app logo.
+---
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
+##  Features
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
+- Onboarding intro screens with navigation
+- Log in / Sign up UI with social media buttons
+- Browse categorized courses
+- View course details (description, duration, price)
+- Modern and clean UI design
+- Responsive on different screen sizes
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
+---
 
-🎨 Figma UI:
+##  Tech Stack
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+- **Flutter** (latest stable version)
+- **Dart**
+- (Optional) Firebase for backend services
+- (Optional) Bloc for state management
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+---
 
-💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
+##  Installation
 
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
+1. Clone the repository:
+```bash
+git clone https://github.com/manaalq/Learning-App-UI.git
 
-⏰ Deadline:
+ How to Use
 
-Your project must be submitted by 1/5/2025 , before 10:00 AM.
+Open the app.
+Navigate through onboarding screens.
+Log in or sign up.
+Browse available courses on the home screen.
+Tap on a card to view full course details.
 
-✨ Reminder:
+ Author
 
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
+Manal Almarri
+GitHub: @manaalq
