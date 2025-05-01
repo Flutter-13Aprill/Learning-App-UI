@@ -1,50 +1,79 @@
-Learning App UI 🎓 📱
+![Tuwaiq Academy Logo](assets/README/Tuwaiq_Academy_Logo.png)
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
+# Learning-App-UI
+Learning-App-UI is a sleek and intuitive learning app that offers users a seamless experience exploring and browsing online courses. The app delivers a well-structured user interface across multiple screens, ensuring easy navigation throughout its various sections. The focus of the app is purely on the user interface, without incorporating any functionalities.
 
-Introduction
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
 
-📱 Core Screens to Implement:
+# Getting Started
+### Prerequisites
 
-✅ Splash Screen – Displays
-the app logo.
+Flutter SDK 
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
+A code editor (such as VS Code or Android Studio)
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
+### Installation
+1. Clone the repository:
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
+   ```
+   git clone https://github.com/2Mhd6/Learning-App-UI.git
+   ```
 
-🎨 Figma UI:
+2. Navigate to the project directory:
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+   ```
+   cd Learning-App-UI
+   ```
+   
+3. Install dependencies:
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+   ```
+   flutter pub get
+   ```
 
-💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
+4. Run the app:
 
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
+   ```
+   flutter run
+   ```
 
-⏰ Deadline:
+## Output
 
-Your project must be submitted by 1/5/2025 , before 10:00 AM.
+**Splash Screen**
 
-✨ Reminder:
+<img src = "assets/README/splash_screen.png" alt = "StackBuddy - Splash Screen" width = "30%" height ="30%">
 
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
+**Onboarding Screen**
+
+<p float="left">
+<img src = "assets/README/onboarding_first_page.png" alt = "StackBuddy - Onboarding Screen" width = "30%" height ="30%">
+<img src = "assets/README/onboarding_second_page.png" alt = "BiteUI - OuOnboarding Screen" width = "30%" height ="30%">
+<img src = "assets/README/onboarding_third_page.png" alt = "BiteUI - Onboarding Screen" width = "30%" height ="30%">
+</p>
+
+**Log in Screen**
+
+<img src = "assets/README/login_screen.png" alt = "StackBuddy - Log in Screen" width = "30%" height ="30%">
+
+**Sign up Screen**
+
+<img src = "assets/README/sign_up_screen.png" alt = "StackBuddy - Sign up Screen" width = "30%" height ="30%">
+
+**Home Screen**
+
+<img src = "assets/README/home_screen.png" alt = "StackBuddy - Home Screen" width = "30%" height ="30%">
+
+**Course Details Screen**
+
+<img src = "assets/README/course_details_screen.png" alt = "StackBuddy - Course Details Screen" width = "30%" height ="30%">
+
+## Languages & Frameworks
+
+**Dart**
+
+**Flutter**
+
+## Created By
+
+[**Mohammed S. Alshammari**](https://www.linkedin.com/in/mohammedsalshammari/)
+
