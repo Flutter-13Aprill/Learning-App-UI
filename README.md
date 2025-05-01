@@ -1,50 +1,58 @@
-Learning App UI 🎓 📱
+*Learning App UI* 🎓 📱
+> - #*Project description*  
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
+This Flutter application provides a user-friendly interface for learning various courses in web development and UI design. It features a splash screen, user authentication (login and signup), and a home screen displaying different course categories and detailed product views.
 
-Introduction
+> - #*Setup instructions*
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
+1-Clone the repository Through commands line:git clone Your Own path
 
-📱 Core Screens to Implement:
+2-Install dependencies Make sure you have Flutter installed. Then run:flutter pub get
 
-✅ Splash Screen – Displays
-the app logo.
+3-Run the app You can launch the app using. Then run: flutter run
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
+Note: You need a working emulator or a connected real device.
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
+> - #*Screenshots of your app*
 
-🎨 Figma UI:
+*App Vedio Demo*
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+("C:\Users\Abdulrahman Alsalem\Desktop\App-Learning-Demo.mp4")
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+✅ #*Splash Screen – Displays the app logo*
 
-💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
+("C:\Users\Abdulrahman Alsalem\Desktop\Splash-Screen.png")
 
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
+✅ #*Onboarding Screens – Three intro screens guiding users about the app*
+-First Onboarding Screen
 
-⏰ Deadline:
+("C:\Users\Abdulrahman Alsalem\Desktop\Learn1.png")
 
-Your project must be submitted by 1/5/2025 , before 10:00 AM.
+-Second Onboarding Screen
 
-✨ Reminder:
+("C:\Users\Abdulrahman Alsalem\Desktop\learn2.png")
 
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
+
+-Third Onboarding Screen
+
+("C:\Users\Abdulrahman Alsalem\Desktop\learn3.png")
+
+✅ #*Login & Sign-Up Screens – Allow users to register and log in*
+
+-Login
+
+("C:\Users\Abdulrahman Alsalem\Desktop\Login.png")
+
+Sign-Up
+
+"C:\Users\Abdulrahman Alsalem\Desktop\Sign-up.png"
+
+✅ #*Home Screen – Displays user info, course categories, and available courses*
+
+("C:\Users\Abdulrahman Alsalem\Desktop\Home.png")
+
+✅ #*Course Details Screen – Shows course description, price, and an "Add to Cart" button*
+
+("C:\Users\Abdulrahman Alsalem\Desktop\Course-info.png")
+
