@@ -3,7 +3,7 @@ Learning App UI 🎓 📱
 ### Demo Video
 
 <video width="350" controls>
-  <source src="AppOverview.webm" type="video/webm">
+  <source src="projectOverview.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
