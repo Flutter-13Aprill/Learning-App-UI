@@ -1,5 +1,7 @@
 Learning App UI 🎓 📱
 
+## Screen recording
+
 ![App Demo](https://github.com/Lamees56/Learning-App-UI/raw/main/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Plus%20-%202025-05-01%20at%2004.43.53.gif)
 
 
@@ -24,7 +26,26 @@ courses.
 ✅ Course Details Screen –
 Shows course description, price, and an "Add to Cart" button.
 
-## Screen Shots
+
+## 🚀 Getting Started
+
+Follow these steps to download and run the Flutter project locally:
+
+### 1. Clone the Repository
+
+## 2.flutter pub get
+
+## 3.flutter run
+
+## 3.flutter run
+
+
+
+
+
+
+
+
 
 
 
