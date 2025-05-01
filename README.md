@@ -1,50 +1,103 @@
-Learning App UI 🎓 📱
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
+# Learning App UI 🎓 
 
-Introduction
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
+### Overview 👀
 
-📱 Core Screens to Implement:
+This project is part of a Flutter bootcamp focused on developing a **Learning App UI**. The app allows users to explore online courses, sign up, and view course details. The main goal is to build an engaging and well-structured user interface with multiple interactive screens.
 
-✅ Splash Screen – Displays
-the app logo.
+---
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
+### Design Prototype 🎨
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
+Check out the UI design on Figma:
+[🔗 View on Figma]()
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
+---
 
-🎨 Figma UI:
+### Output 📱
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
 
-💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
+---
 
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
+### Features ⭐️
 
-⏰ Deadline:
+- 📚 Browse and search online courses
+- 📝 Sign up and log in
+- 🛒 View course details and add to cart
+- 🎨 Clean and responsive UI
 
-Your project must be submitted by 1/5/2025 , before 10:00 AM.
+---
 
-✨ Reminder:
+### Tech Stack 💻
 
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
+- **Flutter**
+- **Dart**
+
+---
+
+### Installation 🛠️
+
+1. Clone the repository:
+
+```bash
+   git clone https://github.com/your-username/your-repo-name.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+   cd your-repo-name
+```
+
+3. Install dependencies:
+
+```bash
+   flutter pub get
+```
+
+4. Run the app:
+
+```bash
+   flutter run
+```
+
+---
+
+### Folder Structure 🔨
+
+```
+lib
+   ├── main.dart
+   └── screens
+       ├── home_screen.dart
+       ├── login_screen.dart
+       ├── onboarding_screens.dart
+       ├── product_detail.dart
+       ├── signup_screen.dart
+       └── splash_screen.dart
+       
+       
+```
+
+---
+
+### How to Use 📲
+
+1. Open the app
+
+2. Complete onboarding
+
+3. Sign up or log in
+
+4. Browse courses
+
+5. View details & add to cart
+
+---
+
+### Author👩‍💻
+**Lamya Alsuhaibani**  
+[🌐 Portfolio Website](https://picayune-mouth-ade.notion.site/Lamya-Alsuhaibani-310c29eda5ba40638fa895968d3f630d "My Portfolio Website")  
+[💼 LinkedIn](https://www.linkedin.com/in/lamya-a-alsuhaibani/ "My LinkedIn")
