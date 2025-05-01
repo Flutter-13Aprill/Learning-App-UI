@@ -5,6 +5,8 @@ import 'package:learning_app_ui/screens/login_screen.dart';
 class RegisterScreen extends StatelessWidget {
   const RegisterScreen({super.key});
 
+  // Registration screen with user input fields (name, email, password), and navigation to home or login screen.
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

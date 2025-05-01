@@ -4,6 +4,8 @@ import 'package:learning_app_ui/screens/login_screen.dart';
 class ThirdIntroScreen extends StatelessWidget {
   const ThirdIntroScreen({super.key});
 
+  //Third onboarding screen implemented as a StatelessWidget; includes image, text, and navigation actions using Navigator to login or the next onboarding screen.
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

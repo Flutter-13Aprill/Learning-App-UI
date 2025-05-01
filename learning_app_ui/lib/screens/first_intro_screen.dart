@@ -5,6 +5,8 @@ import 'package:learning_app_ui/screens/second_intro_screen.dart';
 class FirstIntroScreen extends StatelessWidget {
   const FirstIntroScreen({super.key});
 
+  // First onboarding screen implemented as a StatelessWidget; includes image, text, and navigation actions using Navigator to move to login or next screen.
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

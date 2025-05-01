@@ -5,6 +5,9 @@ import 'package:learning_app_ui/screens/ui_details.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
+  // Home screen displaying user information, a search bar, category filters, and two course cards with details.
+  // Tapping on each course navigates to the course details screen.
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

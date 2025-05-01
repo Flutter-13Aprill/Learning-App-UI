@@ -4,6 +4,8 @@ import 'package:learning_app_ui/screens/home_screen.dart';
 class UIDetailsScreen extends StatelessWidget {
   const UIDetailsScreen({super.key});
 
+  // Screen displaying detailed information about the UI course, including a course image, description, duration, and a button to add to cart.
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

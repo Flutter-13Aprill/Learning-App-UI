@@ -9,6 +9,8 @@ class SplashScreen extends StatefulWidget {
   State<SplashScreen> createState() => _SplashScreenState();
 }
 
+// Splash screen displaying the app logo and name, with immersive mode enabled and automatic navigation to the first intro screen after a delay.
+
 class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {

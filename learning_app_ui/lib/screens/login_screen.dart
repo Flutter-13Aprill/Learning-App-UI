@@ -4,6 +4,8 @@ import 'package:learning_app_ui/screens/register_screen.dart';
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
 
+  // Login screen UI with social authentication options, email/password input fields, and navigation to the sign-up screen.
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
