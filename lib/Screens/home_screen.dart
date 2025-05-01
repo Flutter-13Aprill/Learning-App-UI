@@ -1,29 +1,44 @@
+import 'package:apr30/CustomWidgets/Login/Signup%20Widgets/HomeScreen/category_chips.dart';
+import 'package:apr30/CustomWidgets/Login/Signup%20Widgets/HomeScreen/course_card.dart';
+import 'package:apr30/CustomWidgets/Login/Signup%20Widgets/HomeScreen/custom_search_bar.dart';
+import 'package:apr30/CustomWidgets/Login/Signup%20Widgets/HomeScreen/header.dart';
 import 'package:flutter/material.dart';
 
-class HomeScreen extends StatefulWidget {
+class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
   @override
-  State<HomeScreen> createState() => _HomeScreenState();
-}
-
-class _HomeScreenState extends State<HomeScreen> {
-  @override
   Widget build(BuildContext context) {
+    // Build the home screen with a header, search bar, category chips, and course cards
     return Scaffold(
-      appBar: AppBar(title: const Text("Home"), centerTitle: true),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            const Text("Welcome to the Home Screen!"),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.pop(context);
-              },
-              child: const Text("Back to Onboarding"),
-            ),
-          ],
+      body: SafeArea(
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 16.0),
+          child: ListView(
+            children: [
+              Header(),
+              const SizedBox(height: 24),
+              CustomSearchBar(),
+              const SizedBox(height: 16),
+              CategoryChips(),
+              const SizedBox(height: 24),
+              CourseCard(
+                imagePath: 'Assets/Images/Course1.png',
+                title: 'UI',
+                subtitle: 'Advanced mobile interface design',
+                price: '\$50',
+                color: Colors.orange[50]!,
+              ),
+              const SizedBox(height: 16),
+              CourseCard(
+                imagePath: 'Assets/Images/Course2.png',
+                title: 'HTML',
+                subtitle: 'Modern web markup and semantics',
+                price: '\$50',
+                color: Colors.blue[50]!,
+              ),
+            ],
+          ),
         ),
       ),
     );

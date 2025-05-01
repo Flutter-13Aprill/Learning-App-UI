@@ -1,4 +1,3 @@
-import 'package:apr30/Screens/onboarding.dart';
 import 'package:apr30/Screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 

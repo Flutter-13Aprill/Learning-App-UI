@@ -2,23 +2,24 @@ import 'package:apr30/CustomWidgets/onboarding_tab.dart';
 import 'package:apr30/CustomWidgets/page_indicator.dart';
 import 'package:flutter/material.dart';
 
-class Onboarding extends StatefulWidget {
-  const Onboarding({super.key});
+class OnboardingScreen extends StatefulWidget {
+  const OnboardingScreen({super.key});
 
   @override
-  State<Onboarding> createState() => _OnboardingState();
+  State<OnboardingScreen> createState() => _OnboardingState();
 }
 
-class _OnboardingState extends State<Onboarding> with TickerProviderStateMixin {
+class _OnboardingState extends State<OnboardingScreen>
+    with TickerProviderStateMixin {
   // Declare the PageController and TabController
   // These controllers are used to manage the state of the page view and tabs
   late PageController _pageViewController;
   late TabController _tabController;
   int _currentIndex = 0;
 
-  // This method is called when the widget is first created
   @override
   void initState() {
+    // Initialize the PageController and TabController
     _pageViewController = PageController();
     _tabController = TabController(length: 3, vsync: this);
     super.initState();
@@ -44,7 +45,7 @@ class _OnboardingState extends State<Onboarding> with TickerProviderStateMixin {
             controller: _pageViewController,
             onPageChanged: _handlePageViewChanged,
             children: [
-              // First page
+              // First tab
               OnboardingTab(
                 imagePath: "Assets/Images/Onboarding1.png",
                 title: "Learn AnyTime\nAnd AnyWhere",
@@ -52,14 +53,14 @@ class _OnboardingState extends State<Onboarding> with TickerProviderStateMixin {
                     "Quarantine is the perfect time to spend your\nday learning something new, from anywhere!",
               ),
 
-              // Second page
+              // Second tab
               OnboardingTab(
                 imagePath: "Assets/Images/Onboarding2.png",
                 title: "Find a course\nfor you",
                 subtitle:
                     "Quarantine is the perfect time to spend your\nday learning something new, from anywhere!",
               ),
-              // Third page
+              // Third tab
               OnboardingTab(
                 imagePath: "Assets/Images/Onboarding2.png",
                 title: "Improve your skills",
