@@ -1,50 +1,95 @@
-Learning App UI 🎓 📱
+# Learning App UI -  Assignment 7 (Flutter)🎓 📱
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
+---
+## 📖 Description
 
-Introduction
+This assignment focuses  purely on front-end UI implementation. All layouts are mobile-optimized and follow best practices for user experience. Functionalities like course interaction and authentication will be added in the next development phase.
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
 
-📱 Core Screens to Implement:
+---
+## 🖼️ UI Preview
 
-✅ Splash Screen – Displays
-the app logo.
+  Learning App UI :
+ 
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
+https://github.com/user-attachments/assets/0b70ead1-eb46-490a-a547-c0c2fe543e42
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
 
-🎨 Figma UI:
+---
+## 🧠 Features
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+This assignment focuses on the UI structure only.ِAnd the next step is to build a full-featured version of the app, and its complete functionalities are currently under development.
+---
+## Tech Stack
+- Flutter (latest version)
+- Dart
+---
+## Folder Structure 
+- `lib/`
+  - `core/`
+    - `function/`
+      - `navigation.dart`
+    - `text/`
+      - `app_text.dart` 
+      - `text_styles.dart` 
+    - `theme/`
+      - `app_palette.dart` 
+      - `app_theme.dart` 
+    - `widgets/`
+      - `custom_button.dart` 
+      - `custom_list_tile.dart` 
+      - `custom_text_button.dart` 
+  - `features/`
+    - `authentication/`
+      - `page/`
+        - `login_page.dart` 
+        - `singup_page.dart` 
+      - `widget/`
+        - `custom_container.dart` 
+        - `custom_list_tile.dart` 
+        - `custom_textfield.dart`
+    - `course_detail/`
+      - `page/`
+        - `html_course.dart` 
+    - `home/`
+      - `data/`
+        - `card_data.dart` 
+        - `model/`
+          - `card_model.dart` 
+      - `page/`
+        - `home_page.dart` 
+      - `widget/`
+        - `custom_card.dart` 
+    - `Onboarding/`
+      - `data/`
+        - `onboarding_data.dart` 
+        - `model/`
+          - `onboarding_model.dart` 
+      - `Presentation/`
+        - `page/`
+          - `onboarding_page.dart`
+        - `widget/`
+          - `custom_smooth_indicator.dart` 
+    - `Splash/`
+      - `page/`
+        - `splash_page.dart` 
+---
+## 📦 Packages Used
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+- `smooth_page_indicator:`  – for smooth animated page indicators in onboarding screens.
+- `flutter_screenutil: ` – for responsive sizing (adapts UI layout to different screen sizes).
+---
+## 🚀 How to Use
 
-💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
+- Run `flutter pub get` to fetch dependencies.
+- Use `flutter run` to launch the app on an emulator or physical device.
+---
+## Author
+- Name:Wafa Alsibyani
+- Github: https://github.com/Wafaa-20/Learning-App-UI.git
 
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
 
-⏰ Deadline:
 
-Your project must be submitted by 1/5/2025 , before 10:00 AM.
 
-✨ Reminder:
 
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
