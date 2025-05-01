@@ -1,7 +1,6 @@
 Learning App UI 🎓 📱
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
+![App Demo](Simulator Screen Recording - iPhone 16 Plus - 2025-05-01 at 04.43.53.gif)
 
 Introduction
 
