@@ -1,50 +1,78 @@
-Learning App UI 🎓 📱
+Learning App UI 🎓 📱# 📚 Learning App UI – Flutter Project
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
+A beautifully designed Flutter application that provides an interactive user interface for an online learning platform. Users can explore courses, view details, sign up, and log in seamlessly.
 
-Introduction
+## 🔄 Forked From
+This project is forked from the original repository: [Learning App UI](https://github.com/Flutter-13Aprill/Learning-App-UI.git)
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
 
-📱 Core Screens to Implement:
+## 📸 Screenshots
 
-✅ Splash Screen – Displays
-the app logo.
+### 🟢 App Preview (GIF)
+![App Preview](screenshot/project.gif)
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
+---
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
+### Splash Screen
+![Splash Screen](screenshot/splash1.jpg)
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
+### Onboarding Screens
+![Onboarding 1](screenshot/onpording11.jpg)
+![Onboarding 2](screenshot/onboarding2.jpg)
+![Onboarding 3](screenshot/onboarding33.jpg)
 
-🎨 Figma UI:
+### Authentication Screens
+![Login Screen](screenshot/login1.jpg)
+![Sign-Up Screen](screenshot/signup1.jpg)
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+###  Home Screen
+![Home Screen](screenshot/home1.jpg)
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+### Course Details
+![Course Details Screen](screenshot/details.jpg)
 
-💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
+## ✨ Features
 
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
+-  Splash & Onboarding Screens
+-  User Login and Registration
+-  Home screen showing courses and categories
+-  Detailed Course View with pricing
+-  Add to cart functionality (UI only)
+-  Clean, responsive and modern UI inspired by Figma design
 
-⏰ Deadline:
+## 🧰 Tech Stack
 
-Your project must be submitted by 1/5/2025 , before 10:00 AM.
+- **Flutter** (latest stable)
+- **Dart**
 
-✨ Reminder:
+## 🚀 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Norah200/Learning-App-UI.git
+   
+Navigate to the project directory:
 
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
+
+
+cd your-repo-name
+Get dependencies:
+
+
+flutter pub get
+Run the app:
+
+bash
+Copy code
+flutter run
+
+🧪 How to Use
+
+Open the app.
+Swipe through the onboarding screens.
+Sign up or log in.
+Browse available courses.
+View detailed course information.
+Add course to cart (UI action).
+
+👤 Author
+ (GitHub: [Norah200](https://github.com/Norah200))
