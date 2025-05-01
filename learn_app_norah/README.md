@@ -9,27 +9,27 @@ This project is forked from the original repository: [Learning App UI](https://g
 ## 📸 Screenshots
 
 ### 🟢 App Preview (GIF)
-![App Preview](screenshot/project.gif)
+![App Preview](assets/screenshot/project.gif)
 
 ---
 
 ### Splash Screen
-![Splash Screen](screenshot/splash1.jpg)
+![Splash Screen](assets/screenshot/splash1.jpg)
 
 ### Onboarding Screens
-![Onboarding 1](screenshot/onpording11.jpg)
-![Onboarding 2](screenshot/onboarding2.jpg)
-![Onboarding 3](screenshot/onboarding33.jpg)
+![Onboarding 1](assets/screenshot/onpording11.jpg)
+![Onboarding 2](assets/screenshot/onboarding2.jpg)
+![Onboarding 3](assets/screenshot/onboarding33.jpg)
 
 ### Authentication Screens
 ![Login Screen](screenshot/login1.jpg)
 ![Sign-Up Screen](screenshot/signup1.jpg)
 
 ###  Home Screen
-![Home Screen](screenshot/home1.jpg)
+![Home Screen](assets/screenshot/home1.jpg)
 
 ### Course Details
-![Course Details Screen](screenshot/details.jpg)
+![Course Details Screen](assets/screenshot/details.jpg)
 
 ## ✨ Features
 
@@ -52,19 +52,11 @@ This project is forked from the original repository: [Learning App UI](https://g
    
 Navigate to the project directory:
 
-
-
-cd your-repo-name
-Get dependencies:
-
-
+Install dependencies:
 flutter pub get
+
 Run the app:
-
-bash
-Copy code
 flutter run
-
 🧪 How to Use
 
 Open the app.
