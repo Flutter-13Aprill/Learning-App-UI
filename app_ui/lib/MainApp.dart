@@ -1,5 +1,6 @@
 
 import 'package:app_ui/pages/onBording/controllerOnboarding_page.dart';
+import 'package:app_ui/pages/splash/splash_page.dart';
 import 'package:flutter/material.dart';
 
 // class MainApp extends StatelessWidget {
@@ -27,7 +28,7 @@ class _MainappState extends State<MainApp> {
   Widget build(BuildContext context) {
     return  const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: ControllerOnboardingPage()
+      home: SplashPage()
     );
   }
 }

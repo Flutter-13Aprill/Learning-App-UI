@@ -16,7 +16,7 @@ class ControllerOnboardingPage extends StatefulWidget {
 
 class _ControllerOnboardingPageState extends State<ControllerOnboardingPage> {
   PageController moveTo = PageController();
-  int currentPage = 1;
+  int currentPage = 0;
   String titleButton = "Next";
   @override
   void initState() {

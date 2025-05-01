@@ -1,4 +1,4 @@
-import 'package:app_ui/pages/onBording/onboarding_1_page.dart';
+import 'package:app_ui/pages/onBording/controllerOnboarding_page.dart';
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatefulWidget {
@@ -15,7 +15,7 @@ class _SplashPageState extends State<SplashPage> {
     Future.delayed(Duration(seconds: 3), () {
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => Onboarding1Page()),
+        MaterialPageRoute(builder: (context) => ControllerOnboardingPage()),
       );
     });
   }
