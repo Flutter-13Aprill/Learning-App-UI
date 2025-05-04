@@ -51,7 +51,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     'assets/images/splash.png',
                     width: MediaQuery.sizeOf(context).width,
                     height: MediaQuery.sizeOf(context).height,
-                    fit: BoxFit.cover,
+                    fit: BoxFit.contain,
                   ),
                 ),
 

@@ -6,7 +6,7 @@ A beautiful Flutter app for learn courses .
 
 ## Screenshots
 
-![App](assets/screenshots/)
+![App](learn_app_ui/assets/screenshots/)
 
 
 ---
